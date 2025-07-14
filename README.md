@@ -4,21 +4,21 @@
 
 # Features
 
-   User login system
-   Dashboard for managing posts
-   Add, edit, delete blog posts
-   Categories for organizing posts
-   Image/video uploads for posts
-   Responsive layout with a neat UI
-   Built with PHP, MySQL, HTML, CSS, JavaScript
+      User login system
+      Dashboard for managing posts
+      Add, edit, delete blog posts
+      Categories for organizing posts
+      Image/video uploads for posts
+      Responsive layout with a neat UI
+      Built with PHP, MySQL, HTML, CSS, JavaScript
 
 # Technologies Used
 
-  PHP
-  MySQL
-  HTML & CSS
-  JavaScript
-  VS Code#
+     PHP
+     MySQL
+     HTML & CSS
+     JavaScript
+     VS Code#
 
 #  How to Run This Project
 
