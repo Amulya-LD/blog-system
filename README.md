@@ -4,30 +4,30 @@
 
 # Features
 
-      User login system
-      Dashboard for managing posts
-      Add, edit, delete blog posts
-      Categories for organizing posts
-      Image/video uploads for posts
-      Responsive layout with a neat UI
-      Built with PHP, MySQL, HTML, CSS, JavaScript
+   -User login system
+   -Dashboard for managing posts
+   -Add, edit, delete blog posts
+   -Categories for organizing posts
+   -Image/video uploads for posts
+   -Responsive layout with a neat UI
+   -Built with PHP, MySQL, HTML, CSS, JavaScript
 
 # Technologies Used
 
-     PHP
-     MySQL
-     HTML & CSS
-     JavaScript
-     VS Code#
+   -PHP
+   -MySQL
+   -HTML & CSS
+   -JavaScript
+   -VS Code#
 
 #  How to Run This Project
 
     Clone the repository:
     git clone https://github.com/yourusername/blog-system.git
     
-    Move the project to your web server root (e.g. htdocs if using XAMPP).
+   -Move the project to your web server root (e.g. htdocs if using XAMPP).
     
-    Import the database:
+   -Import the database:
     Open phpMyAdmin.
     Create a database (e.g. blog_db).
     Import the provided SQL file (if you have one).
